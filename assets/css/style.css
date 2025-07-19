@@ -1475,6 +1475,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .about .article-title { margin-bottom: 20px; }
 
   .about-text { margin-bottom: 40px; }
+  .about-text p {text-align:justify}
 
   /* service */
 
